@@ -1,6 +1,6 @@
 Portfolio
 About me 👋
-Hi, my name is Alexander. Since the beginning of 2022 I have been studying and practicing to become a QA/Product Manager. I am happy to have finally found an area in which I can successfully develop myself. Since IT and Computer Games has always been a passion for me, Being able to help making something that someone will enjoy playing makes my heart race a little. And with the QA position I see the potential to make, at the very least, the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge what i have learned so far as a QA-student and showcase my practical skills that I have gained through courses and self-study. I am determined to continue to grow in this field.
+Hi, my name is Alexander. Since the beginning of 2022 I have been studying and practicing to become a QA/Product Manager. I am happy to have finally found an area in which I can successfully develop myself. Since IT and Computer Games has always been a passion for me, Being able to help making something that someone will enjoy playing makes my heart race a little. And with the QA position I see the potential to make, at the very least, the digital world more fun! In this portfolio, I would like to share my knowledge what i have learned so far as a QA-student and showcase my practical skills that I have gained through courses and self-study. I am determined to continue to grow in this field.
 My Linkedin profile https://www.linkedin.com/in/alexander-k%C3%A5gstr%C3%B6m-25702424b/
 
 My experience 🏢
