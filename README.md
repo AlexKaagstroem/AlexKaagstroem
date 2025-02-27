@@ -66,6 +66,4 @@ Scenario and test cases
 Bug report
 Test report
 Books 📚
-Rafał Podraza, “Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach”
-Piotr Wicherski, Testowanie oprogramowania
 Blogs 📰
