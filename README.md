@@ -18,8 +18,8 @@ GitHub - supporting Git and preparing my repositories
 
 
 !>				
-Rest API testing
-ISTQB Foundation Level knowledge
+
+
 Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
 Software testing
 Creating test cases
@@ -28,7 +28,7 @@ Creating bug reports
 Creating documentation
 experience with testing SaaS web applications
 performing smoke tests
-testing UAT
+
 scrum workflow
 Soft skills 📁
 precision
@@ -40,7 +40,7 @@ Courses 📓
 QA Training + PORTFOLIO
 
 Certificates 🏆
-DareIT Challenge - become a manual tester
+
 
 Operating DevTools
 
